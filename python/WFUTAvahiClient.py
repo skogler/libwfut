@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python2
 
 def go():
 	## I think we need an object here which will poll until told to stop.
